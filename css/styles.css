@@ -710,6 +710,17 @@ button {
 .button-inside-modal-window:focus {
   fill: #ffffff;
 }
+.inside-form {
+  margin-bottom: 8px;
+}
+.inside-form-name {
+  display: block;
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+  margin-bottom: 4px;
+}
 .inside-modal-window-txt {
   color: #2e2f42;
   text-align: center;

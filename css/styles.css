@@ -711,6 +711,9 @@ button {
   fill: #ffffff;
 }
 .inside-form {
+  margin-bottom: 8px;
+}
+.bottom-form {
   margin-bottom: 16px;
 }
 .inside-form-name {

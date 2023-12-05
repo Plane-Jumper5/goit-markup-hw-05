@@ -706,8 +706,8 @@ button {
 .footer-icon-top {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-icon-top:hover,
-.footer-icon-top:focus {
+.button-inside-modal-window:hover,
+.button-inside-modal-window:focus {
   fill: #ffffff;
 }
 .inside-modal-window-txt {

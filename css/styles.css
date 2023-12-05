@@ -721,6 +721,10 @@ button {
   color: #8e8f99;
   margin-bottom: 4px;
 }
+.field-top {
+  position: relative;
+}
+
 .inside-modal-window-txt {
   color: #2e2f42;
   text-align: center;

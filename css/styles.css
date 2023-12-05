@@ -652,6 +652,9 @@ button {
 .footer-icon-view:focus {
   background-color: #31d0aa;
 }
+.footer-modal {
+  margin-left: 80px;
+}
 .footer-modal-txt {
   margin-bottom: 16px;
   font-weight: 500;
@@ -662,7 +665,7 @@ button {
 }
 .footer-form {
   display: flex;
+  gap: 24px;
 }
 .footer-form-label {
-  gap: 24px;
 }

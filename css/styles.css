@@ -666,9 +666,9 @@ button {
 .footer-form {
   display: flex;
   gap: 24px;
+  color: #ffffff;
 }
-.footer-form-label {
-}
+
 .footer-input {
   width: 264px;
   height: 40px;

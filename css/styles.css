@@ -652,3 +652,11 @@ button {
 .footer-icon-view:focus {
   background-color: #31d0aa;
 }
+.footer-modal-txt {
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}

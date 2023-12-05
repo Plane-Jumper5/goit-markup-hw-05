@@ -699,3 +699,6 @@ button {
   border: none;
   border-radius: 4px;
 }
+.footer-icon {
+  margin-left: 16px;
+}

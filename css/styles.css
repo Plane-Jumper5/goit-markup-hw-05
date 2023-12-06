@@ -713,6 +713,9 @@ button {
 .inside-form {
   margin-bottom: 8px;
 }
+.inside-form-text {
+  margin-bottom: 16px;
+}
 .bottom-form {
   margin-bottom: 16px;
 }
@@ -736,9 +739,6 @@ button {
 }
 .checkbox {
   margin-bottom: 24px;
-}
-.inside-form {
-  margin-bottom: 16px;
 }
 
 .inside-form-item {

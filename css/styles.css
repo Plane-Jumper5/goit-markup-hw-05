@@ -737,6 +737,9 @@ button {
 .checkbox {
   margin-bottom: 24px;
 }
+.inside-form {
+  margin-bottom: 16px;
+}
 
 .inside-form-item {
   display: block;
@@ -771,17 +774,6 @@ button {
 .user-data:focus {
   border-color: #4d5ae5;
 }
-/*
-.inside-form-txt {
-  color: #2e2f42;
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  margin-bottom: 16px;
-}*/
 
 .general-modal-window {
   position: fixed;

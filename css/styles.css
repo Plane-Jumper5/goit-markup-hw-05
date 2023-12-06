@@ -875,7 +875,10 @@ button {
   letter-spacing: 0.04em;
   color: #ffffff;
   border-radius: 4px;
+  border: none;
+  background-color: #4d5ae5;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin: 0 auto;
 }
 /* <div class="field-top">
               <input

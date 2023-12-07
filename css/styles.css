@@ -892,12 +892,15 @@ button {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  cursor: pointer;
 }
 .text-link {
   color: #4d5ae5;
 }
-.checkbox-item {
-  visua
+.checkbox-item:checked + .user-privacy-item > .link-icon {
+  background-color: #404bbf;
+  fill: #f4f4fd;
+  border: none;
 }
 /* <div class="field-top">
               <input

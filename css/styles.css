@@ -911,10 +911,8 @@ button {
   width: 16px;
   height: 16px;
 }
-.last-icon:focus {
-  fill: #4d5ae5;
-}
-.link-icon:focus + svg {
+
+.link-icon:focus + .last-icon {
   fill: #4d5ae5;
 }
 /* <div class="field-top">

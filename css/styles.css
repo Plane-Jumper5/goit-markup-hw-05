@@ -914,6 +914,9 @@ button {
 .last-icon:focus {
   fill: #4d5ae5;
 }
+.input:focus + svg {
+  fill: #4d5ae5;
+}
 /* <div class="field-top">
               <input
                 class="user-data"

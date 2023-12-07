@@ -901,7 +901,7 @@ button {
   border: none;
 }
 input:focus + svg {
-  fill: #404bbf;
+  fill: #4d5ae5;
 }
 .privacy-link {
   color: #4d5ae5;

@@ -905,6 +905,10 @@ button {
 .checkbox-item:focus {
   fill: #4d5ae5;
 }
+.last-icon {
+  width: 16px;
+  height: 16px;
+}
 /* <div class="field-top">
               <input
                 class="user-data"

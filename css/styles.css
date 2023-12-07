@@ -902,6 +902,9 @@ button {
   fill: #f4f4fd;
   border: none;
 }
+.checkbox-item:focus {
+  fill: #4d5ae5;
+}
 /* <div class="field-top">
               <input
                 class="user-data"

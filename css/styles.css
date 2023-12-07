@@ -900,11 +900,11 @@ button {
   fill: #f4f4fd;
   border: none;
 }
-.checkbox-item:focus + .user-privacy-item > .link-icon {
-  fill: #4d5ae5;
+.checkbox-item:focus + .last-icon {
+  fill: #404bbf;
 }
 .privacy-link {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .last-icon {

@@ -903,9 +903,10 @@ button {
 .checkbox-item:focus + .user-privacy-item > .link-icon {
   outline: 0;
 }
-.checkbox-item:focus {
-  fill: #4d5ae5;
+.privacy-link {
+  color: #4d5ae5;
 }
+
 .last-icon {
   width: 16px;
   height: 16px;

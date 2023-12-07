@@ -900,7 +900,7 @@ button {
   fill: #f4f4fd;
   border: none;
 }
-.checkbox-item:focus + .last-icon {
+input:focus + svg {
   fill: #404bbf;
 }
 .privacy-link {

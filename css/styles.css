@@ -902,7 +902,7 @@ button {
   fill: #f4f4fd;
   border: none;
 }
-.checkbox-item:checked + .user-privacy-item > .link-icon:focus {
+.checkbox-item:focus + .user-privacy-item > .link-icon {
   fill: #4d5ae5;
 }
 .checkbox-item:focus {

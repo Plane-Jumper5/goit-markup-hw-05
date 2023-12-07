@@ -894,9 +894,7 @@ button {
   fill: transparent;
   cursor: pointer;
 }
-.text-link {
-  color: #4d5ae5;
-}
+
 .checkbox-item:checked + .user-privacy-item > .link-icon {
   background-color: #404bbf;
   fill: #f4f4fd;

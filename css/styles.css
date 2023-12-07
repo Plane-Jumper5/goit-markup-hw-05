@@ -901,7 +901,7 @@ button {
   border: none;
 }
 .checkbox-item:focus + .user-privacy-item > .link-icon {
-  outline: 0;
+  fill: #4d5ae5;
 }
 .privacy-link {
   color: #4d5ae5;
@@ -912,9 +912,6 @@ button {
   height: 16px;
 }
 
-.link-icon:focus + .last-icon {
-  fill: #4d5ae5;
-}
 /* <div class="field-top">
               <input
                 class="user-data"

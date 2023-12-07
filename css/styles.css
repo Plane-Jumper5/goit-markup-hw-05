@@ -903,7 +903,7 @@ button {
   border: none;
 }
 .checkbox-item:focus + .user-privacy-item > .link-icon {
-  fill: #4d5ae5;
+  outline: 0;
 }
 .checkbox-item:focus {
   fill: #4d5ae5;
